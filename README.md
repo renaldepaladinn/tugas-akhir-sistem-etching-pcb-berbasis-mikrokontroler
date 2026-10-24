@@ -5,3 +5,8 @@ Proyek tugas akhir ini bertujuan merancang dan merealisasikan sistem etching PCB
 Sistem menggunakan Arduino Mega 2560 sebagai pengendali utama, sensor ultrasonik untuk memantau ketersediaan air bersih, serbuk FeCl₃, dan kapasitas tangki larutan bekas, serta sensor water flow untuk mengukur volume air. Pompa, motor DC, dan servo digunakan untuk mendukung proses pengisian air, penyaluran serbuk FeCl₃, dan pembuangan larutan bekas. Penggantian larutan ditentukan berdasarkan akumulasi waktu penggunaan, tanpa pengukuran langsung parameter kimia seperti pH, konsentrasi, dan suhu.
 
 Hasil pengujian menunjukkan bahwa sistem mampu mengisi air dengan volume rata-rata 408,33 mL dari target 400 mL, dengan error 2,08%, serta menyalurkan serbuk FeCl₃ dengan massa rata-rata 73,83 gram. Pengujian sensor menunjukkan error rata-rata sebesar 1,8% pada tangki serbuk FeCl₃, 0,6% pada tangki air bersih, dan 0,4% pada tangki larutan bekas. Dalam pengujian etching, sistem dapat beroperasi hingga batas waktu penggunaan larutan selama 42 menit 30 detik, dengan hasil etching yang bervariasi berdasarkan ukuran dan jumlah PCB yang diproses.
+
+## Keterangan Proyek
+Proyek Tugas Akhir D3 Teknik Elektronika
+
+Tanggal Proyek Selesai: 23 Juli 2026
